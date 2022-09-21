@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\yerw5\\documents\\unreal projects\\gittest\\intermediate\\build\\win64\\unrealeditor\\inc\\gittest\\gittest.init.gen.cpp",
+        "Source": "d:\\joljac\\survil\\gittest\\intermediate\\build\\win64\\unrealeditor\\inc\\gittest\\gittest.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\yerw5\\documents\\unreal projects\\gittest\\intermediate\\build\\win64\\gittesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\joljac\\survil\\gittest\\intermediate\\build\\win64\\gittesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\yerw5\\documents\\unreal projects\\gittest\\intermediate\\build\\win64\\unrealeditor\\development\\gittest\\definitions.gittest.h"
+            "d:\\joljac\\survil\\gittest\\intermediate\\build\\win64\\unrealeditor\\development\\gittest\\definitions.gittest.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

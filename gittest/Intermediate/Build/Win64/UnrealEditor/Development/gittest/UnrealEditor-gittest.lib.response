@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-gittest.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittest.cpp.obj"
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittestGameModeBase.cpp.obj"
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittest.init.gen.cpp.obj"
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittestGameModeBase.gen.cpp.obj"
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\Default.rc2.res"
-/OUT:"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\UnrealEditor-gittest.lib"
+"D:\JolJac\survil\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\JolJac\survil\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittest.cpp.obj"
+"D:\JolJac\survil\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittestGameModeBase.cpp.obj"
+"D:\JolJac\survil\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittest.init.gen.cpp.obj"
+"D:\JolJac\survil\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\gittestGameModeBase.gen.cpp.obj"
+"D:\JolJac\survil\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\Default.rc2.res"
+/OUT:"D:\JolJac\survil\gittest\Intermediate\Build\Win64\UnrealEditor\Development\gittest\UnrealEditor-gittest.lib"

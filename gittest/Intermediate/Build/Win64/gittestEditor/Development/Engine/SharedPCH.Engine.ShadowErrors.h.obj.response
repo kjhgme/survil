@@ -1,4 +1,4 @@
-"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+D:\JolJac\survil\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -271,14 +271,14 @@
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/Yc"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-/sourceDependencies "C:\Users\yerw5\Documents\Unreal Projects\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.json"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/Yc"D:\JolJac\survil\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\JolJac\survil\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\JolJac\survil\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/sourceDependencies D:\JolJac\survil\gittest\Intermediate\Build\Win64\gittestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.json
 /Zc:inline
 /nologo
 /Oi
