@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yerw5\\documents\\unreal projects\\survill\\intermediate\\build\\win64\\unrealeditor\\inc\\survill\\survill.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yerw5\\documents\\unreal projects\\survill\\intermediate\\build\\win64\\survilleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\yerw5\\documents\\unreal projects\\survill\\intermediate\\build\\win64\\unrealeditor\\development\\survill\\definitions.survill.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
