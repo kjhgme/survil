@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Survill.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\SurvillEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\UnrealEditor\Development\Survill\Survill.cpp.obj"
+"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\UnrealEditor\Development\Survill\SurvillGameModeBase.cpp.obj"
+"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\UnrealEditor\Development\Survill\Survill.init.gen.cpp.obj"
+"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\UnrealEditor\Development\Survill\SurvillGameModeBase.gen.cpp.obj"
+"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\UnrealEditor\Development\Survill\Default.rc2.res"
+/OUT:"C:\Users\yerw5\Documents\Unreal Projects\Survill\Intermediate\Build\Win64\UnrealEditor\Development\Survill\UnrealEditor-Survill.lib"
