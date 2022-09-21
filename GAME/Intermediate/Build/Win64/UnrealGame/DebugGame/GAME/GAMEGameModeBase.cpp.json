@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ytp\\documents\\unreal projects\\game\\source\\game\\gamegamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\game\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\unrealgame\\debuggame\\game\\definitions.game.h",
+            "c:\\users\\ytp\\documents\\unreal projects\\game\\source\\game\\gamegamemodebase.h",
+            "c:\\program files (x86)\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files (x86)\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files (x86)\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files (x86)\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\unrealgame\\inc\\game\\gamegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

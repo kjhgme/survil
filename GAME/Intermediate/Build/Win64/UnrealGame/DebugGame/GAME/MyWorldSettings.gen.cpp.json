@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\unrealgame\\inc\\game\\myworldsettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\game\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\unrealgame\\debuggame\\game\\definitions.game.h",
+            "c:\\users\\ytp\\documents\\unreal projects\\game\\source\\game\\myworldsettings.h",
+            "c:\\users\\ytp\\documents\\unreal projects\\game\\intermediate\\build\\win64\\unrealgame\\inc\\game\\myworldsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
