@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Unreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\Unreal.cpp.obj"
+"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealGameModeBase.cpp.obj"
+"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\Unreal.init.gen.cpp.obj"
+"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealGameModeBase.gen.cpp.obj"
+"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\Default.rc2.res"
+/OUT:"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealEditor-Unreal.lib"

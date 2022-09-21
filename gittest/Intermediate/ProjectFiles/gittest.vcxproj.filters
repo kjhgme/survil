@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\gittest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gittest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\gittestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\gittest">
+      <UniqueIdentifier>{29054D1F-5AC0-301E-80F2-EC41C3623B28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gittest\gittest.Build.cs">
+      <Filter>Source\gittest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\gittest\gittest.cpp">
+      <Filter>Source\gittest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gittest\gittest.h">
+      <Filter>Source\gittest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gittest\gittestGameModeBase.cpp">
+      <Filter>Source\gittest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gittest\gittestGameModeBase.h">
+      <Filter>Source\gittest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

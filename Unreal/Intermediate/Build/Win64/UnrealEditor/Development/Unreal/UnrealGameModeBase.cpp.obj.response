@@ -1,7 +1,7 @@
-D:\JolJac\survil\Unreal\Source\Unreal\UnrealGameModeBase.cpp
+"C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Source\Unreal\UnrealGameModeBase.cpp"
 /I .
-/I D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Inc\Unreal
-/I D:\JolJac\survil\Unreal\Source
+/I "C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Inc\Unreal"
+/I "C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -269,16 +269,16 @@ D:\JolJac\survil\Unreal\Source\Unreal\UnrealGameModeBase.cpp
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\Definitions.Unreal.h"
-/Yu"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealGameModeBase.cpp.obj"
-/sourceDependencies D:\JolJac\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealGameModeBase.cpp.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\Definitions.Unreal.h"
+/Yu"C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealGameModeBase.cpp.obj"
+/sourceDependencies "C:\Users\yerw5\Documents\Unreal Projects\survil\survil\Unreal\Intermediate\Build\Win64\UnrealEditor\Development\Unreal\UnrealGameModeBase.cpp.json"
 /Zc:inline
 /nologo
 /Oi

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gittest",
+			"Path": "C:\\Users\\yerw5\\Documents\\Unreal Projects\\gittest\\Source\\gittest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gittestEditor",
+			"Path": "C:\\Users\\yerw5\\Documents\\Unreal Projects\\gittest\\Source\\gittestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
